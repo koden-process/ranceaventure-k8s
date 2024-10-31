@@ -1,0 +1,11 @@
+NameSpace: koden-clients
+AppName: ranceaventure-db
+NodePort: 32149
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 5Gi
+MariadbServerId: 2
+MariadbDbName: DB_5ipn7lp3mng
+MariadbDbUser: 5ipn7lp3mng
+MariadbDbPort: 3306
